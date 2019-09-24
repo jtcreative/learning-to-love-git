@@ -1,1 +1,1 @@
-# learning-to-love-git
+# learning-to-love-git not in this class
